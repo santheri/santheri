@@ -1,11 +1,11 @@
 
-### Hi there, I'm �Santheri 👋
+### Hi there, I'm Santheri 👋
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## I'm a �Programmer
+## I'm a Programmer
 
-- 💬 Ask me about ......�python,shell
+- 💬 Ask me about ......python,shell
 - 📫 Reach me at santheribhat@gmail.com
 
 ### Connect with me:
