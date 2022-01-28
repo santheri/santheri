@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**santheri/santheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm �Santheri 👋
 
-Here are some ideas to get you started:
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a �Programmer
+
+- 💬 Ask me about ......�python,shell
+- 📫 Reach me at santheribhat@gmail.com
+
+### Connect with me:
+
+<a href="https://instagram.com/𝗬𝗼𝘂𝗿 𝗶𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝘂𝘀𝗲𝗿𝗻𝗮𝗺𝗲" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="𝗬𝗼𝘂𝗿 𝗶𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝘂𝘀𝗲𝗿𝗻𝗮𝗺𝗲" height="30" width="40" /></a>
