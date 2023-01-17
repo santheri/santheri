@@ -3,7 +3,7 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## I'm into Web Development and Competative Programming
+## I'm into Web Development and Competitive Programming
 
 - 💬 Ask me about ......python,shell,flask,html,css,js
 - 📫 Reach me at santheribhat@gmail.com
